@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hey Everyone! 👋</h1>
+<h1><i>Hey Everyone!<img src="giphy.gif" width="40" height="40"></i></h1>
+<p>I aspire to explore new horizons through coding along with working in Infosys</p>
+<p><b><h3>I can code in:</p></h3>
+ 
+
+
