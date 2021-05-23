@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1><i>Hey Everyone!<img src="giphy.gif" width="40" height="40"></i></h1>
+<h1><i><b>Hey Everyone!<img src="giphy.gif" width="40" height="40"></b></i></h1>
 <p>I aspire to explore new horizons through coding along with working in Infosys</p>
-<p><b><h3>I can code in:</p></h3>
- 
+<h3><b>I can code in:</b></h3>
+<table bordercolor="#ff00ff" border = "5px" cellspacing="10"> <tr><td><b>o </b> Java </td> </t> <td><b>o </b> Python </td>
+<td><b>o </b> C/C++ </td></tr></table>
+ <h3><b>Frameworks known:</b></h3>
 
 
