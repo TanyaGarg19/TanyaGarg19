@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 <table bordercolor="#ff00ff" border = "5px" cellspacing="10"> <tr><td><b>o </b> Java </td> </t> <td><b>o </b> Python </td>
 <td><b>o </b> C/C++ </td></tr></table>
  <h3><b>Frameworks known:</b></h3>
+ <img src="logo1.jpg" width="60" height="60">
 
 
